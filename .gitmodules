@@ -1,0 +1,4 @@
+[submodule "Webimtech/imtech-odoo"]
+	path = Webimtech/imtech-odoo
+	url = git@github.com:Webimtech/imtech-odoo.git
+	branch = icecat
