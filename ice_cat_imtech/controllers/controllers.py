@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
  from odoo import http
 
-
  class IceCatImtech(http.Controller):
      @http.route('/ice_cat_imtech/ice_cat_imtech/', auth='public')
      def index(self, **kw):

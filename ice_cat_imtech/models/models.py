@@ -2,7 +2,6 @@
 
 from odoo import models, fields, api
 
-
 class ice_cat_imtech(models.Model):
     _name = 'ice_cat_imtech.ice_cat_imtech'
     _description = 'ice_cat_imtech.ice_cat_imtech'
