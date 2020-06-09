@@ -1,7 +1,6 @@
 <odoo>
   <data>
     <!-- explicit list view definition -->
-<!--
     <record model="ir.ui.view" id="ice_cat_imtech.list">
       <field name="name">IceCatImtech list</field>
       <field name="model">ice_cat_imtech.ice_cat_imtech</field>
@@ -13,19 +12,15 @@
         </tree>
       </field>
     </record>
--->
 
     <!-- actions opening views on models -->
-<!--
     <record model="ir.actions.act_window" id="ice_cat_imtech.action_window">
       <field name="name">IceCatImtech window</field>
       <field name="res_model">ice_cat_imtech.ice_cat_imtech</field>
       <field name="view_mode">tree,form</field>
     </record>
--->
 
     <!-- server action to the one above -->
-<!--
     <record model="ir.actions.server" id="ice_cat_imtech.action_server">
       <field name="name">IceCatImtech server</field>
       <field name="model_id" ref="model_ice_cat_imtech_ice_cat_imtech"/>
@@ -38,23 +33,17 @@
         }
       </field>
     </record>
--->
 
     <!-- Top menu item -->
-<!--
     <menuitem name="IceCatImtech" id="ice_cat_imtech.menu_root"/>
--->
     <!-- menu categories -->
-<!--
     <menuitem name="Menu 1" id="ice_cat_imtech.menu_1" parent="ice_cat_imtech.menu_root"/>
     <menuitem name="Menu 2" id="ice_cat_imtech.menu_2" parent="ice_cat_imtech.menu_root"/>
--->
+
     <!-- actions -->
-<!--
     <menuitem name="List" id="ice_cat_imtech.menu_1_list" parent="ice_cat_imtech.menu_1"
               action="ice_cat_imtech.action_window"/>
     <menuitem name="Server to list" id="ice_cat_imtech" parent="ice_cat_imtech.menu_2"
               action="ice_cat_imtech.action_server"/>
--->
   </data>
 </odoo>
