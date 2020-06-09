@@ -1,1 +1,1 @@
-# imtech-odoo
+# module icecat
