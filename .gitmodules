@@ -1,0 +1,4 @@
+[submodule "Webimtech/myicecat"]
+	path = Webimtech/myicecat
+	url = git@github.com:Webimtech/myicecat.git
+	branch = master
