@@ -1,1 +1,1 @@
-# imtech-odoo
+# icemodule
