@@ -12,3 +12,8 @@
 	path = Webimtech/monmuduleicecat
 	url = git@github.com:Webimtech/myicecat.git
 	branch = master
+
+[submodule "Webimtech/producticecat"]
+	path = Webimtech/producticecat
+	url = git@github.com:Webimtech/producticecat.git
+	branch = master
