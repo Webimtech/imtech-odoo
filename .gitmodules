@@ -2,3 +2,8 @@
 	path = Webimtech/imtech-odoo
 	url = git@github.com:Webimtech/imtech-odoo.git
 	branch = icecat
+
+[submodule "Webimtech/ProductManufacturer"]
+	path = Webimtech/ProductManufacturer
+	url = git@github.com:Webimtech/ProductManufacturer.git
+	branch = master
