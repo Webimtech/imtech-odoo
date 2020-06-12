@@ -7,3 +7,8 @@
 	path = Webimtech/ProductManufacturer
 	url = git@github.com:Webimtech/ProductManufacturer.git
 	branch = master
+
+[submodule "Webimtech/ProductManufacturerModule"]
+	path = Webimtech/ProductManufacturerModule
+	url = git@github.com:Webimtech/ProductManufacturer.git
+	branch = master
